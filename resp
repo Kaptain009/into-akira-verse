@@ -1,0 +1,7 @@
+echo "# into-akira-verse" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kaptain009/into-akira-verse.git
+git push -u origin main
